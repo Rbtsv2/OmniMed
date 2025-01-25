@@ -76,3 +76,14 @@ project-root/
 3. Accédez aux services :
    - **Frontend** : [http://localhost:3000](http://localhost:3000)
    - **Backend** : [http://localhost:4000](http://localhost:4000)
+
+
+
+## License
+
+- The **code** in this repository is licensed under the [MIT License](./LICENSE).
+- The **documentation** and **assets** (images, guides) are licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+### Badges
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)
