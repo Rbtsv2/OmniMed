@@ -7,6 +7,18 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)
 
+![Build Status](https://github.com/Rbtsv2/OmniMed/actions/workflows/main.yml/badge.svg)
+![GitHub stars](https://img.shields.io/github/stars/Rbtsv2/OmniMed.svg)
+![Contributors](https://img.shields.io/github/contributors/Rbtsv2/OmniMed.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/Rbtsv2/OmniMed.svg)
+![Docs](https://img.shields.io/badge/docs-up--to--date-brightgreen.svg)
+
+![Platform](https://img.shields.io/badge/platform-linux%20|%20windows%20|%20macOS-lightgrey.svg)
+![GitHub issues](https://img.shields.io/github/issues/Rbtsv2/OmniMed.svg)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/Rbtsv2/OmniMed.svg)
+
+
 Une plateforme dédiée aux analyses bioinformatiques et médicales, intégrant des pipelines d'analyse de séquences génomiques, la modélisation de protéines et l'identification d'épitopes immunogènes, le tout orchestré avec Python, React, GraphQL, PostgreSQL sous Docker, Kubernetes pour la scalabilité, et un pipeline CI/CD optimisé pour la recherche biomédicale avancée.
 
 ---
