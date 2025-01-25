@@ -1,5 +1,9 @@
 # **OmniMed**
 
+<p align="center">
+  <img src="./assets/logo.png" alt="Logo" width="400">
+</p>
+
 Une plateforme dédiée aux analyses bioinformatiques et médicales, intégrant des pipelines d'analyse de séquences génomiques, la modélisation de protéines et l'identification d'épitopes immunogènes, le tout orchestré avec Python, React, GraphQL, PostgreSQL sous Docker, Kubernetes pour la scalabilité, et un pipeline CI/CD optimisé pour la recherche biomédicale avancée.
 
 ---
