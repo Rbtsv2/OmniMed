@@ -90,3 +90,7 @@ project-root/
 ### Badges
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)
+
+
+## How to Contribute
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
