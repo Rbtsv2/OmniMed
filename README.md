@@ -4,6 +4,9 @@
   <img src="./assets/logo.png" alt="Logo" width="400">
 </p>
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)
+
 Une plateforme dédiée aux analyses bioinformatiques et médicales, intégrant des pipelines d'analyse de séquences génomiques, la modélisation de protéines et l'identification d'épitopes immunogènes, le tout orchestré avec Python, React, GraphQL, PostgreSQL sous Docker, Kubernetes pour la scalabilité, et un pipeline CI/CD optimisé pour la recherche biomédicale avancée.
 
 ---
