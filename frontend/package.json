@@ -1,0 +1,17 @@
+{
+    "name": "frontend",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "@apollo/client": "^3.7.5",
+      "graphql": "^16.6.0"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    }
+  }
