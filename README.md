@@ -11,7 +11,6 @@
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)
 
 ## Statut et métriques du projet
-![Build Status](https://github.com/Rbtsv2/OmniMed/actions/workflows/main.yml/badge.svg)
 ![GitHub stars](https://img.shields.io/github/stars/Rbtsv2/OmniMed.svg)
 ![Contributors](https://img.shields.io/github/contributors/Rbtsv2/OmniMed.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
@@ -25,7 +24,6 @@
 
 ## Technologies utilisées
 ![Languages](https://img.shields.io/github/languages/top/Rbtsv2/OmniMed.svg)
-![Dependencies](https://img.shields.io/david/Rbtsv2/OmniMed.svg)
 ![Python](https://img.shields.io/badge/python-3.10-blue.svg)
 
 
