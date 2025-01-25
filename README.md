@@ -4,8 +4,6 @@
   <img src="./assets/logo.png" alt="Logo" width="400">
 </p>
 
-# OmniMed
-
 ## Licences
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)
